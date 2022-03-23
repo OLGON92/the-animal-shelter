@@ -1,0 +1,29 @@
+.box1 p {
+  width: 33%
+  float: left
+  background-color: aliceblue;
+  border: 2px beige;
+  margin: auto;
+}
+
+.box2 p {
+  background-color: bisque;
+  width: 33%
+  float: left
+  border: 2px beige;
+  margin: auto;
+}
+
+.box3 p {
+  background-color: skyblue;
+  width: 33%
+  float: left
+  border: 2px beige;
+  margin: auto;
+}
+
+img {
+  float: center
+  width: 47%
+  box-sizing: border-box;
+}
