@@ -1,7 +1,7 @@
 .box1 p {
+  background-color: aliceblue;
   width: 33%
   float: left
-  background-color: aliceblue;
   border: 2px beige;
   margin: auto;
 }
